@@ -27,12 +27,11 @@
   
 - slug: fxwebcompat
   name: Firefox Webcompat
-  desc: Articles related to Firefox Quality Assurance 
+  desc: Articles related to Web Compatibility 
 
 - slug: fxtestpilot
   name: Fx Test Pilot
   desc: Articles about Amazing features which will be landing to Firefox in future.
-
 
 - slug: mozactivate
   name: MozActivate
@@ -100,3 +99,6 @@
   name: MozillaTN Software Freedom Day 2017
   desc: Posts about MozillaTN community invovlement in SFD 2017
 
+- slug: WoMoz
+  name: Women in Mozilla
+  desc: Posts about WoMoz activities
